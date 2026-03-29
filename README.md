@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer | WordPress Expert | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&lines=Web+Developer;WordPress+Expert;Always+Learning+New+Things;Love+to+Build+Cool+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&lines=Software+Engineer;WordPress+Expert;Always+Learning+New+Things;Love+to+Build+Cool+Projects" />
 </p>
 
 ---
