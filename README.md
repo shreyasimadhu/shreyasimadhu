@@ -31,7 +31,7 @@
 - 👯 I’m looking to collaborate on **Software , AI, Security**
 
 - 🤝 I’m looking for help with **Software , AI, Security**                                        
-- 📫 How to reach me **<shreyasi16@gmail.com>**
+- 📫 How to reach me **<sm.shreyasi.19@gmail.com>**
 
 - ⚡ Fun fact: *I love solving problems & learning new tech every day*                                      
 
@@ -77,7 +77,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:sm.shreyasi.19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white"/></a>
 </p>
 
